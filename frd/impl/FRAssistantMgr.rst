@@ -1,0 +1,7 @@
+FRAssistantMgr
+==================================================
+
+
+
+
+.. doxygenfile:: FRAssistantMgr.h

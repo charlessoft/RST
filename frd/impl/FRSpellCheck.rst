@@ -1,0 +1,7 @@
+FRSpellCheck
+==================================================
+
+
+
+
+.. doxygenfile:: FRSpellCheck.h

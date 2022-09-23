@@ -1,0 +1,7 @@
+FRGlobalData
+==================================================
+
+
+
+
+.. doxygenfile:: FRGlobalData.h

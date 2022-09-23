@@ -1,0 +1,7 @@
+FRIFieldMulCopiesNotify
+==================================================
+
+
+
+
+.. doxygenfile:: FRIFieldMulCopiesNotify.h

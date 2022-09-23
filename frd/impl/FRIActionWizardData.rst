@@ -1,0 +1,7 @@
+FRIActionWizardData
+==================================================
+
+
+
+
+.. doxygenfile:: FRIActionWizardData.h

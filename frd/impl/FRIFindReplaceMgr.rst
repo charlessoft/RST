@@ -1,0 +1,7 @@
+FRIFindReplaceMgr
+==================================================
+
+
+
+
+.. doxygenfile:: FRIFindReplaceMgr.h

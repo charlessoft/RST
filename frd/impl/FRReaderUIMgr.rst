@@ -1,0 +1,7 @@
+FRReaderUIMgr
+==================================================
+
+
+
+
+.. doxygenfile:: FRReaderUIMgr.h

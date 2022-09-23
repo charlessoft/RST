@@ -1,0 +1,7 @@
+FRIFXInputMethod
+==================================================
+
+
+
+
+.. doxygenfile:: FRIFXInputMethod.h

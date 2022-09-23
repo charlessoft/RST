@@ -1,0 +1,7 @@
+FRPDFBitmap
+==================================================
+
+
+
+
+.. doxygenfile:: FRPDFBitmap.h

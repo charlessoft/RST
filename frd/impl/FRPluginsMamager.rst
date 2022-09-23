@@ -1,0 +1,7 @@
+FRPluginsMamager
+==================================================
+
+
+
+
+.. doxygenfile:: FRPluginsMamager.h
